@@ -1,5 +1,5 @@
 module.exports = {
     placeholderName: 'boilerplate',
     templateDir: './template',
-    postInitScript: './postInit.js'
+    // postInitScript: './postInit.js'
 };
